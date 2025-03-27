@@ -2,7 +2,8 @@ from minus import subtract_calculator
 from sum import sum_calculator
 from multiply import multiply
 from devide import divide_calculator
-
+print("27th march , thrusday , 11:30 am ")
+print("made with the help of ai 4.0 github capitior")
 def main():
     print("Welcome to the Advanced Calculator!")
     print("Select an operation:")
